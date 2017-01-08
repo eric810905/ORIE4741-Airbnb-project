@@ -22,8 +22,6 @@ The main collaborators are:
   - New York Crime data set: (http://www.nyc.gov/html/nypd/html/crime_prevention/crime_statistics.shtml)
 
 
-The full project proposal can be found in "Proposal.md"
+The full project proposal can be found in "Final Report.md" and "Introduction Report.md"
 
 Thanks for reading!
-
-$X^{yas}$
