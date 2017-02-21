@@ -69,7 +69,7 @@ Besides, large portion of our data is composed of text describing the listing. T
 
 Lastly, we have many features with boolean values which indicate the characteristics of the listing and the host. For example, through these values we know whether this host is a superhost, and whether this is a instant-bookable or 24-hour check-in listing.
 
-##7. Run a few preliminary analyses on the data
+##7. Run a few preliminary analysis on the data
 
 At the first stage, we run the ridge regression with all transformed features by calling the built-in function of scikit learn. The ridge coefficients minimize a penalized residual sum of squares,
 
