@@ -1,5 +1,5 @@
-# ORIE4741-Airbnb-project
-### A data mining project studying Airbnb's data at Cornell University, with Dr. Madeleine Udell
+# Prediction on Airbnb Pricing
+### A data mining course (ORIE4741) project studying Airbnb's data at Cornell University, with Dr. Madeleine Udell
 
 
 The main collaborators are: 
