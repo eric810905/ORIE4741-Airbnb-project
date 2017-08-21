@@ -17,8 +17,8 @@ The main collaborators are:
 
 
 > ###**Note:** Data for this project can be found at:
-  - Airbnb Data Set: (http://insideairbnb.com/get-the-data.html)
-  - Zillow Data Set: (http://www.zillow.com/research/data/) 
+  - Airbnb Data Set ( June 2016 in NYC ): http://insideairbnb.com/get-the-data.html
+  - Zillow Data Set: http://www.zillow.com/research/data/
 
 The full project proposal can be found in "Final Report.md" and "Introduction Report.md"
 
